@@ -6,11 +6,9 @@ Here you can find some of my demo projects.
 
 1. [Casino Reviews Page](#casino-reviews-page)
 	
-    * [Readme](https://github.com/llamerr-demo-projects/casino-reviews?tab=readme-ov-file#info)
-    <img src="902123.webp" width="16" height="16" alt="external" />
+    * [Readme](https://github.com/llamerr-demo-projects/casino-reviews?tab=readme-ov-file#info) <img src="902123.webp" width="16" height="16" alt="external" />
 	
-    * [Demo](https://llamerr-demo-projects.github.io/casino-reviews/casino-reviews.html)
-    <img src="902123.webp" width="16" height="16" alt="external" />
+    * [Demo](https://llamerr-demo-projects.github.io/casino-reviews/casino-reviews.html) <img src="902123.webp" width="16" height="16" alt="external" />
 
 <a name="casino-reviews-page"></a>
 ## Casino Reviews Page
