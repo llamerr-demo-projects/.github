@@ -4,6 +4,8 @@ Here you can find some of my demo projects.
 
 # Demos
 
+1. [AdventJS challenges](#advent-js)
+    
 1. [Casino Reviews Page](#casino-reviews-page)
     
     * [Readme <img src="902123.webp" width="16" height="16" alt="external" />](https://github.com/llamerr-demo-projects/casino-reviews?tab=readme-ov-file#info)
@@ -15,6 +17,21 @@ Here you can find some of my demo projects.
     * [Readme <img src="902123.webp" width="16" height="16" alt="external" />](https://github.com/llamerr-demo-projects/files-tree?tab=readme-ov-file#info)
     
     * [Demo <img src="902123.webp" width="16" height="16" alt="external" />](https://llamerr-demo-projects.github.io/files-tree/)
+
+<a name="advent-js"></a>
+## AdventJS challenges
+
+https://github.com/llamerr-demo-projects/adventjs-2023
+
+Solutions to challanges at https://adventjs.dev/
+
+Install stuff with `pnpm install` Run tests with `pnpm test`
+
+All solved (so far) tasks with basic tests are located here
+
+https://github.com/llamerr-demo-projects/adventjs-2023/tree/master/src/tasks
+
+You can test how good they score at the site itself
 
 <a name="casino-reviews-page"></a>
 ## Casino Reviews Page
