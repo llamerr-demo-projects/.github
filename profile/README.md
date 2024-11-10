@@ -18,6 +18,8 @@ Here you can find some of my demo projects.
     
     * [Demo <img src="902123.webp" width="16" height="16" alt="external" />](https://llamerr-demo-projects.github.io/files-tree/)
 
+1. [Minesweeper Game](#minesweeper-game)    
+
 <a name="advent-js"></a>
 ## AdventJS challenges
 
@@ -64,3 +66,15 @@ Implementation:
 Generating mock data using LLM:
 
 ![chat-gpt](file-tree-chat-gpt.gif)
+
+
+<a name="minesweeper-game"></a>
+## Minesweeper Game
+
+https://mine-sweeper-seven.vercel.app/
+
+Customizable Minesweeper game with option to select field size and number of mines.
+
+https://github.com/llamerr-demo-projects/mine-sweeper
+
+![desktop](game.gif)
