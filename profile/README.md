@@ -23,15 +23,19 @@ Here you can find some of my demo projects.
 <a name="advent-js"></a>
 ## AdventJS challenges
 
-https://github.com/llamerr-demo-projects/adventjs-2023
+For 2023 challenges: https://github.com/llamerr-demo-projects/adventjs-2023
+
+For 2024 challenges: https://github.com/llamerr-demo-projects/adventjs-2024
 
 Solutions to challanges at https://adventjs.dev/
 
 Install stuff with `pnpm install` Run tests with `pnpm test`
 
-All solved (so far) tasks with basic tests are located here
+All solved (so far) tasks with basic tests are located
 
-https://github.com/llamerr-demo-projects/adventjs-2023/tree/master/src/tasks
+here: https://github.com/llamerr-demo-projects/adventjs-2023/tree/master/src/tasks
+
+or here: https://github.com/llamerr-demo-projects/adventjs-2024/tree/master/src/tasks
 
 You can test how good they score at the site itself
 
